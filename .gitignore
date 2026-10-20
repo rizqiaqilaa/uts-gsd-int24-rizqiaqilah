@@ -3,6 +3,5 @@ myvenv/
 __pycache__/
 data/events.csv
 data/ecommerce-dataset.zip
-data/category_tree.csv
 data/item_properties_part1.csv
 data/item_properties_part2.csv
